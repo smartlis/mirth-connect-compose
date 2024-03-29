@@ -2,3 +2,4 @@ _local/
 data/
 coverage/
 .vscode/
+log/
